@@ -27,3 +27,17 @@ Merupakan Basic Website menggunakan HTML + CSS.
   * Pastikan untuk selalu menggunakan gambar yang izinnya Anda miliki! [Unsplash] (https://unsplash.com/) adalah
   sumber daya yang bagus untuk foto bebas hak cipta.
   * Jika Anda tidak menggunakan gambar yang disertakan dengan template, jangan lupa untuk menghapusnya!
+
+
+### SEKILAS WEB HTML + CSS
+
+![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web1.jpg?raw=true "1")
+![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web2.jpg?raw=true "2")
+![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web3.jpg?raw=true "3")
+![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web4.jpg?raw=true "4")
+![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web5.jpg?raw=true "5")
+
+
+### SEKILAS WEB HTML + CSS RESPONSIF
+![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Responsifweb.jpg?raw=true "A")
+![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Responsifweb1.jpg?raw=true "B")
