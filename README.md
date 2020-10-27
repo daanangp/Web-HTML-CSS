@@ -31,6 +31,7 @@ Merupakan Basic Website menggunakan HTML + CSS.
 
 ### SEKILAS WEB HTML + CSS
 
+<<<<<<< HEAD
 ![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web1.jpg?raw=true "1")
 ![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web2.jpg?raw=true "2")
 ![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web3.jpg?raw=true "3")
@@ -41,3 +42,6 @@ Merupakan Basic Website menggunakan HTML + CSS.
 ### SEKILAS WEB HTML + CSS RESPONSIF
 ![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Responsifweb.jpg?raw=true "A")
 ![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Responsifweb1.jpg?raw=true "B")
+=======
+![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web1.jpg?raw=true "Optional Title")
+>>>>>>> 78b0994fe0dcc4d7f43e8c9cebaba14c54d664fc
