@@ -43,5 +43,3 @@ Merupakan Basic Website menggunakan HTML + CSS.
 ![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Responsifweb.jpg?raw=true "A")
 ![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Responsifweb1.jpg?raw=true "B")
 =======
-![Alt text](https://github.com/daanangp/Web-HTML-CSS/blob/main/images/Web1.jpg?raw=true "Optional Title")
->>>>>>> 78b0994fe0dcc4d7f43e8c9cebaba14c54d664fc
